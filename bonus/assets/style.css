@@ -4,7 +4,47 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: beige;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .container{
+    max-width: 60%;
+    max-height: 30%;
+    margin-top: 30px;
+    margin: auto;
+    padding: 30px;
+    background-color: aliceblue;
+    border-radius: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+
+}
+
+header>h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pictures-container{
     max-width: 50%;
     margin: auto;
+    text-align: center;
+}
+
+.pictures-container>img{
+    max-width: 30%;
+    margin-bottom: 20px;
+}
+
+div>table{
+    margin: auto;
+}
+
+.todo-list{
+    margin-top: 900px;
 }
