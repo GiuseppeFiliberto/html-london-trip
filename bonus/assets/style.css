@@ -23,6 +23,15 @@ hr{
     text-align: center;
 
 }
+.todo-list{
+    text-align: center;
+}
+
+.todo-list>ul{
+    display: inline-block;
+    text-align: left;
+}
+
 
 header>h1{
     text-align: center;
