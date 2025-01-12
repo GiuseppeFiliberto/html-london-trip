@@ -20,6 +20,10 @@ header>h1{
     margin-bottom: 20px;
 }
 
+section>h2{
+    margin-bottom: 15px;
+}
+
 div>table{
 
     margin: auto;
@@ -67,6 +71,7 @@ div>table{
     margin-top: 20px;
     margin-bottom: 15px;
 }
+
 .info-section{
 
     text-align: center;
